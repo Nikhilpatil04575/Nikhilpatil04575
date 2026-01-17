@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Nikhil Patil</h1>
 
-<h3>Java Full Stack Developer | Spring Boot | React</h3>
+<h3>Java Full Stack Developer</h3>
 
 <p>
 Computer Science Engineering student with hands-on experience in building scalable and secure web applications using 
