@@ -20,92 +20,48 @@ Java, Spring Boot, and React. Strong interest in backend development, clean arch
 </ul>
 
 <hr/>
-
 <h3>🛠️ Skills & Technologies</h3>
 
 <p><b>Programming Languages</b></p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/> Java &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/> C
 </p>
 
 <p><b>Frontend Technologies</b></p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35"/> HTML5 &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"/> CSS3 &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/> JavaScript <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35"/> React.js &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="35"/> Redux &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="35"/> Bootstrap &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35"/> Tailwind CSS
 </p>
 
 <p><b>Backend & Frameworks</b></p>
 <p>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35"/> Spring Boot &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain-wordmark.svg" width="35"/> Hibernate (JPA)
 </p>
 
-<p><b>Database</b></p>
+<p><b>Databases</b></p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/> MySQL &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="35"/> Oracle
 </p>
 
 <p><b>Tools & Platforms</b></p>
 <p>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35"/> Git &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35"/> GitHub &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35"/> Postman &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35"/> VS Code &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="35"/> Eclipse &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="35"/> Apache Tomcat
 </p>
 
-<hr/>
-
-<h3>📂 Projects</h3>
-
-<h4>🛒 E-Commerce Cart Management Application</h4>
-<ul>
-  <li>Built a responsive shopping cart system using React, Redux, and Spring Boot.</li>
-  <li>Implemented global state management and REST API integration.</li>
-  <li>Designed scalable backend services with MySQL.</li>
-</ul>
-
-<h4>🏦 Bank Management System</h4>
-<ul>
-  <li>Developed RESTful APIs for banking operations.</li>
-  <li>Implemented Spring Security and Hibernate ORM.</li>
-  <li>Used MVC and layered architecture for scalability.</li>
-</ul>
-
-<h4>📍 Local Job & Service Finder (In Progress)</h4>
-<ul>
-  <li>Spring Boot backend with JWT authentication.</li>
-  <li>Role-based access control and secure APIs.</li>
-</ul>
-
-<hr/>
-
-<h3>💼 Internship Experience</h3>
-
-<b>Java Full Stack Intern — Seed Infotech</b><br/>
-Dec 2024 – Feb 2025
-
-<ul>
-  <li>Hands-on training in Java, Spring Boot, and React.</li>
-  <li>Built MVC-based web applications.</li>
-</ul>
-
-<b>AI Trainee — AI Ally India</b><br/>
-Aug 2025 – Present
-
-<ul>
-  <li>Worked with Power BI, Power Apps, Power Automate, Dataverse.</li>
-</ul>
-
-<hr/>
 
 <h3>📫 Contact</h3>
 
