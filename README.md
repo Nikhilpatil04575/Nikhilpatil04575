@@ -62,9 +62,8 @@ Java, Spring Boot, and React. Strong interest in backend development, clean arch
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" width="35"/> Apache Tomcat
 </p>
 
-
+ <br/>
 <h3>📫 Contact</h3>
-
 <p>
 📧 nikhilpatil.thedev@gmail.com <br/>
 🔗 <a href="https://linkedin.com/in/nikhil-patil-dev" target="_blank">LinkedIn</a>
