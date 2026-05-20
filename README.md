@@ -12,7 +12,7 @@ Java, Spring Boot, and React. Strong interest in backend development, clean arch
 <h3>👨‍💻 About Me</h3>
 
 <ul>
-  <li>🎓 B.E. Computer Science Engineering (2022–2026) — SGPA: 9.00</li>
+  <li>🎓 B.E. Computer Science Engineering (2022–2026) — SGPA: 9.10</li>
   <li>💻 Java Full Stack Developer with real-world project experience</li>
   <li>🔭 Currently working on <b>Local Job & Service Finder</b> (Spring Boot Backend)</li>
   <li>🌱 Learning AI, Automation & Analytics (Microsoft Power Platform)</li>
